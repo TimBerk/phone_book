@@ -42,7 +42,6 @@
 * [Simple JWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt) - Simple JWT is a JSON Web Token authentication plugin for the Django REST Framework.
 * [DRF YASG](https://drf-yasg.readthedocs.io/en/stable/readme.html) - Generate real Swagger/OpenAPI 2.0 specifications from a Django Rest Framework API.
 * [Djoser](https://djoser.readthedocs.io/en/latest/getting_started.html) - Token based authentication from DRF.
-* [Django MPTT](https://django-mptt.readthedocs.io/en/latest/) - MPTT is a technique for storing hierarchical data in a database.
 * [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - A Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS).
 * [Django nested admin](https://django-nested-admin.readthedocs.io/) - A project that makes it possible to nest admin inlines.
 * [Phonenumbers](https://pypi.org/project/phonenumbers/) - This is a Python port of Google's libphonenumber library.
