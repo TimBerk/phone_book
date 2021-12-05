@@ -126,7 +126,6 @@ media/
 *.pid
 /cookie.data
 
-Makefile
 .env.dev
 .env.prod
 
